@@ -140,7 +140,7 @@ function AddBeerPage() {
             />
           </div>
 
-          <label>Contributed By</label>
+          <label>Contributed BY</label>
           <input
             className="form-control mb-4"
             type="text"
